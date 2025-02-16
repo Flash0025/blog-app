@@ -11,5 +11,4 @@ interface IPost extends Document {
   content: string
   featuredImage: string
   views: number
-  
 }
